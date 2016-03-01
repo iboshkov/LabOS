@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e363d2b-ee5d-4437-bb42-002c52463305" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/CountThree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/Naizmenicno.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/TenThreads.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/TwoThreads.java" />
+    <list default="true" id="2e363d2b-ee5d-4437-bb42-002c52463305" name="Default" comment="Lab 2 Done.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/boshkov/os/lab2/CountThree.java" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/CountThree.java" />
     </list>
     <ignored path="LabOS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,13 +99,13 @@
       <file leaf-file-name="CountThree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab2/CountThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70016474">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="61" selection-end-column="13" />
+            <state vertical-scroll-proportion="1.9884679">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#1168#1176#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#1147#1155#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -278,7 +275,7 @@
       <recent name="com.boshkov.os.lab1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadaca2Lab2">
+  <component name="RunManager" selected="Application.Zadaca2Lab4">
     <configuration default="false" name="Zadaca2" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab1.HW01_2" />
@@ -731,7 +728,37 @@
     </configuration>
     <configuration default="false" name="Zadaca2Lab2" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab2.TenThreads" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Ilija\Documents\LabOS&quot;" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LabOS" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Zadaca2Lab3" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab2.Naizmenicno" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Ilija\Documents\LabOS&quot;" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LabOS" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Zadaca2Lab4" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab2.CountThree" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Ilija\Documents\LabOS&quot;" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -759,13 +786,15 @@
       <envs />
       <method />
     </configuration>
-    <list size="6">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Application.Zadaca4" />
       <item index="1" class="java.lang.String" itemvalue="Application.Zadaca1" />
       <item index="2" class="java.lang.String" itemvalue="Application.Zadaca1Lab2" />
       <item index="3" class="java.lang.String" itemvalue="Application.Zadaca2Lab2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Zadaca5" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Zadaca2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Zadaca2Lab3" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Zadaca2Lab4" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Zadaca5" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Zadaca2" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -782,12 +811,19 @@
       <updated>1456217344731</updated>
       <workItem from="1456217352033" duration="6672000" />
       <workItem from="1456431540150" duration="440000" />
-      <workItem from="1456825720982" duration="3116000" />
+      <workItem from="1456825720982" duration="3614000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab 2 - 4ta">
+      <created>1456828869722</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456828869722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10228000" />
+    <option name="totallyTimeSpent" value="10726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -820,6 +856,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 2 - 4ta" />
+    <MESSAGE value="Lab 2 Done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 2 Done." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -990,13 +1031,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab2/CountThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70016474">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="61" selection-end-column="13" />
+        <state vertical-scroll-proportion="1.9884679">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#1168#1176#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#1147#1155#0" expanded="true" />
           </folding>
         </state>
       </provider>
