@@ -2,7 +2,7 @@ package com.boshkov.os.lab2;
 
 
 public class TwoThreads {
-    public static class ThreadAB extends Thread {
+    public static class ThreadAB implements Runnable {
         private String sA, sB;
 
         public ThreadAB(String a, String b){
@@ -28,8 +28,8 @@ public class TwoThreads {
     }
 
     public static void main(String[] args) {
-        new ThreadAB("A", "B").start();
-        new ThreadAB("1", "2").start();
+        new Thread(new ThreadAB("A", "B")).start();
+        new Thread(new ThreadAB("1", "2")).start();
     }
     /*
      Ako se izvrsat dve nitki paralelno koga ednata pecati broevi od 1 do 26 a drugata od A do Z, ke se izmesa izlezot

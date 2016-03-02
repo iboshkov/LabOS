@@ -1,9 +1,7 @@
 package com.boshkov.os.lab2;
-
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.locks.Lock;
 
 public class Naizmenicno {
 
@@ -12,24 +10,20 @@ public class Naizmenicno {
     int f1count;
     int f2count;
     int maxDifference = 0;
-    int maxF2;
+    static Semaphore s1;
+    static Semaphore s2;
 
-    public static Semaphore mutex;
     /**
      * Metod koj treba da gi inicijalizira vrednostite na semaforite i
      * ostanatite promenlivi za sinhronizacija.
      *
      */
     public void init(int count) {
-        maxF2 = count;
-        mutex = new Semaphore(1);
+        s1 = new Semaphore(count);
+        s2 = new Semaphore(0);
     }
 
     class F1Thread extends Thread {
-
-        public void executeF1() throws InterruptedException {
-            f1();
-        }
 
         @Override
         public void run() {
@@ -39,20 +33,23 @@ public class Naizmenicno {
                 e.printStackTrace();
             }
         }
+
+        public void executeF1() throws InterruptedException {
+            if (s1.availablePermits() == 0){
+                s2.release();
+            }
+            s1.acquire();
+            f1();
+        }
     }
 
     class F2Thread extends Thread {
 
         public void executeF2() throws InterruptedException {
-            mutex.acquire();
-            if (f2count == maxF2)
-            {
-                mutex.release();
-                return;
-            }
-            mutex.release();
-
+            s2.acquire();
             f2();
+            s2.release();
+            s1.release();
         }
 
         @Override

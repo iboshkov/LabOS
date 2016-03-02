@@ -2,6 +2,7 @@ package com.boshkov.os.lab2;
 
 import java.util.HashSet;
 import java.util.Scanner;
+import java.util.concurrent.Semaphore;
 
 public class CountThree {
 
@@ -10,15 +11,20 @@ public class CountThree {
      * Promenlivata koja treba da go sodrzi brojot na pojavuvanja na elementot 3
      */
     int count = 0;
-
+    static Semaphore s;
     public void init() {
+        s = new Semaphore(1);
     }
 
     class Counter extends Thread {
         public synchronized void count(int[] data) throws InterruptedException {
+            int c = 0;
             for (int i : data){
-                if (i == 3) count++;
+                if (i == 3) c++;
             }
+            s.acquire();
+            count += c;
+            s.release();
         }
         private int[] data;
 
