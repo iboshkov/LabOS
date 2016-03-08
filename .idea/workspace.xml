@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e363d2b-ee5d-4437-bb42-002c52463305" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab3/TancSoStudentite.java" />
+    <list default="true" id="2e363d2b-ee5d-4437-bb42-002c52463305" name="Default" comment="Lab3 Zadaca 1.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab3/TemplateNumRunsAndNumInstances.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab3/TribeDinner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/boshkov/os/lab2/TenThreads.java" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/TenThreads.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/boshkov/os/lab2/TwoThreads.java" afterPath="$PROJECT_DIR$/src/com/boshkov/os/lab2/TwoThreads.java" />
     </list>
     <ignored path="LabOS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,16 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HW01_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab1/HW01_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HW01_3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab1/HW01_3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab2/TwoThreads.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="3" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,17 +63,17 @@
         <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab2/TenThreads.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TancSoStudentite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TancSoStudentite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab3/TancSoStudentite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.2151515">
-              <caret line="86" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.206897">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1497#1498#0" expanded="true" />
@@ -93,6 +82,41 @@
                 <element signature="e#2380#2381#0" expanded="true" />
                 <element signature="e#2806#2814#0" expanded="true" />
                 <element signature="e#8571#8579#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplateNumRunsAndNumInstances.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab3/TemplateNumRunsAndNumInstances.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.2878788">
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2718#2719#0" expanded="true" />
+                <element signature="e#2756#2757#0" expanded="true" />
+                <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="true" />
+                <element signature="e#7480#7488#0" expanded="true" />
+                <element signature="e#7556#7573#0" expanded="true" />
+                <element signature="e#9670#9671#0" expanded="true" />
+                <element signature="e#9716#9717#0" expanded="true" />
+                <element signature="e#10906#10931#0" expanded="true" />
+                <element signature="e#11705#11706#0" expanded="true" />
+                <element signature="e#11742#11743#0" expanded="true" />
+                <element signature="e#12278#12286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TribeDinner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab3/TribeDinner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,7 +139,44 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="429" column="16" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
-              <folding />
+              <folding>
+                <element signature="e#0#28129#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6207#6208#0" expanded="false" />
+                <element signature="e#6248#6249#0" expanded="false" />
+                <element signature="e#6282#6283#0" expanded="false" />
+                <element signature="e#6323#6324#0" expanded="false" />
+                <element signature="e#7894#7895#0" expanded="false" />
+                <element signature="e#7932#7933#0" expanded="false" />
+                <element signature="e#7988#7989#0" expanded="false" />
+                <element signature="e#8052#8053#0" expanded="false" />
+                <element signature="e#8250#8251#0" expanded="false" />
+                <element signature="e#8288#8289#0" expanded="false" />
+                <element signature="e#9063#9064#0" expanded="false" />
+                <element signature="e#9110#9111#0" expanded="false" />
+                <element signature="e#9650#9651#0" expanded="false" />
+                <element signature="e#9728#9729#0" expanded="false" />
+                <element signature="e#11983#11984#0" expanded="false" />
+                <element signature="e#12020#12021#0" expanded="false" />
+                <element signature="e#13148#13149#0" expanded="false" />
+                <element signature="e#13207#13208#0" expanded="false" />
+                <element signature="e#15864#15865#0" expanded="false" />
+                <element signature="e#15901#15902#0" expanded="false" />
+                <element signature="e#24963#24964#0" expanded="false" />
+                <element signature="e#25003#25004#0" expanded="false" />
+                <element signature="e#25177#25178#0" expanded="false" />
+                <element signature="e#25219#25220#0" expanded="false" />
+                <element signature="e#26038#26039#0" expanded="false" />
+                <element signature="e#26085#26086#0" expanded="false" />
+                <element signature="e#26558#26559#0" expanded="false" />
+                <element signature="e#26604#26605#0" expanded="false" />
+                <element signature="e#27075#27076#0" expanded="false" />
+                <element signature="e#27119#27120#0" expanded="false" />
+                <element signature="e#27683#27684#0" expanded="false" />
+                <element signature="e#27729#27730#0" expanded="false" />
+                <element signature="e#28044#28045#0" expanded="false" />
+                <element signature="e#28125#28126#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,18 +192,6 @@
                 <element signature="e#386#387#0" expanded="true" />
                 <element signature="e#755#756#0" expanded="true" />
                 <element signature="e#795#796#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HW01_5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab1/HW01_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -181,6 +230,8 @@
         <option value="$PROJECT_DIR$/src/com/boshkov/os/lab2/TenThreads.java" />
         <option value="$PROJECT_DIR$/src/com/boshkov/os/TancSoStudentite.java" />
         <option value="$PROJECT_DIR$/src/com/boshkov/os/lab3/TancSoStudentite.java" />
+        <option value="$PROJECT_DIR$/src/com/boshkov/os/lab3/TribeDinner.java" />
+        <option value="$PROJECT_DIR$/src/com/boshkov/os/lab3/TemplateNumRunsAndNumInstances.java" />
       </list>
     </option>
   </component>
@@ -317,7 +368,7 @@
       <recent name="com.boshkov.os.lab1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab3Zadaca1">
+  <component name="RunManager" selected="Application.Lab3Zadaca2">
     <configuration default="false" name="Zadaca2" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab1.HW01_2" />
@@ -828,6 +879,36 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="Lab3Zadaca2" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab3.TemplateNumRunsAndNumInstances" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Ilija\Documents\LabOS&quot;" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LabOS" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lab3Zadaca3" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab3.TribeDinner" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Ilija\Documents\LabOS&quot;" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LabOS" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="Zadaca5" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.boshkov.os.lab1.HW01_5" />
@@ -843,7 +924,7 @@
       <envs />
       <method />
     </configuration>
-    <list size="9">
+    <list size="11">
       <item index="0" class="java.lang.String" itemvalue="Application.Zadaca4" />
       <item index="1" class="java.lang.String" itemvalue="Application.Zadaca1" />
       <item index="2" class="java.lang.String" itemvalue="Application.Zadaca1Lab1" />
@@ -851,8 +932,10 @@
       <item index="4" class="java.lang.String" itemvalue="Application.Zadaca2Lab3" />
       <item index="5" class="java.lang.String" itemvalue="Application.Zadaca2Lab4" />
       <item index="6" class="java.lang.String" itemvalue="Application.Lab3Zadaca1" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Zadaca5" />
-      <item index="8" class="java.lang.String" itemvalue="Application.Zadaca2" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Lab3Zadaca2" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Lab3Zadaca3" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Zadaca5" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Zadaca2" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -872,7 +955,7 @@
       <workItem from="1456825720982" duration="4040000" />
       <workItem from="1456877489063" duration="1038000" />
       <workItem from="1456909295246" duration="2850000" />
-      <workItem from="1457427348467" duration="699000" />
+      <workItem from="1457427348467" duration="4821000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2 - 4ta">
       <created>1456828869722</created>
@@ -892,11 +975,17 @@
       <option name="project" value="LOCAL" />
       <updated>1456911214981</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab3 Zadaca 1.">
+      <created>1457428078184</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1457428078184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15739000" />
+    <option name="totallyTimeSpent" value="19861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -906,10 +995,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24207188" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24207188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24207188" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -934,7 +1023,8 @@
     <MESSAGE value="Lab 2 - 4ta" />
     <MESSAGE value="Lab 2 Done." />
     <MESSAGE value="Fixes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixes." />
+    <MESSAGE value="Lab3 Zadaca 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Zadaca 1." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -945,22 +1035,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab1/HW01_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab1/HW01_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab1/HW01_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1001,7 +1075,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="429" column="16" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#28129#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6207#6208#0" expanded="false" />
+            <element signature="e#6248#6249#0" expanded="false" />
+            <element signature="e#6282#6283#0" expanded="false" />
+            <element signature="e#6323#6324#0" expanded="false" />
+            <element signature="e#7894#7895#0" expanded="false" />
+            <element signature="e#7932#7933#0" expanded="false" />
+            <element signature="e#7988#7989#0" expanded="false" />
+            <element signature="e#8052#8053#0" expanded="false" />
+            <element signature="e#8250#8251#0" expanded="false" />
+            <element signature="e#8288#8289#0" expanded="false" />
+            <element signature="e#9063#9064#0" expanded="false" />
+            <element signature="e#9110#9111#0" expanded="false" />
+            <element signature="e#9650#9651#0" expanded="false" />
+            <element signature="e#9728#9729#0" expanded="false" />
+            <element signature="e#11983#11984#0" expanded="false" />
+            <element signature="e#12020#12021#0" expanded="false" />
+            <element signature="e#13148#13149#0" expanded="false" />
+            <element signature="e#13207#13208#0" expanded="false" />
+            <element signature="e#15864#15865#0" expanded="false" />
+            <element signature="e#15901#15902#0" expanded="false" />
+            <element signature="e#24963#24964#0" expanded="false" />
+            <element signature="e#25003#25004#0" expanded="false" />
+            <element signature="e#25177#25178#0" expanded="false" />
+            <element signature="e#25219#25220#0" expanded="false" />
+            <element signature="e#26038#26039#0" expanded="false" />
+            <element signature="e#26085#26086#0" expanded="false" />
+            <element signature="e#26558#26559#0" expanded="false" />
+            <element signature="e#26604#26605#0" expanded="false" />
+            <element signature="e#27075#27076#0" expanded="false" />
+            <element signature="e#27119#27120#0" expanded="false" />
+            <element signature="e#27683#27684#0" expanded="false" />
+            <element signature="e#27729#27730#0" expanded="false" />
+            <element signature="e#28044#28045#0" expanded="false" />
+            <element signature="e#28125#28126#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1093,7 +1204,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="429" column="16" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#28129#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6207#6208#0" expanded="false" />
+            <element signature="e#6248#6249#0" expanded="false" />
+            <element signature="e#6282#6283#0" expanded="false" />
+            <element signature="e#6323#6324#0" expanded="false" />
+            <element signature="e#7894#7895#0" expanded="false" />
+            <element signature="e#7932#7933#0" expanded="false" />
+            <element signature="e#7988#7989#0" expanded="false" />
+            <element signature="e#8052#8053#0" expanded="false" />
+            <element signature="e#8250#8251#0" expanded="false" />
+            <element signature="e#8288#8289#0" expanded="false" />
+            <element signature="e#9063#9064#0" expanded="false" />
+            <element signature="e#9110#9111#0" expanded="false" />
+            <element signature="e#9650#9651#0" expanded="false" />
+            <element signature="e#9728#9729#0" expanded="false" />
+            <element signature="e#11983#11984#0" expanded="false" />
+            <element signature="e#12020#12021#0" expanded="false" />
+            <element signature="e#13148#13149#0" expanded="false" />
+            <element signature="e#13207#13208#0" expanded="false" />
+            <element signature="e#15864#15865#0" expanded="false" />
+            <element signature="e#15901#15902#0" expanded="false" />
+            <element signature="e#24963#24964#0" expanded="false" />
+            <element signature="e#25003#25004#0" expanded="false" />
+            <element signature="e#25177#25178#0" expanded="false" />
+            <element signature="e#25219#25220#0" expanded="false" />
+            <element signature="e#26038#26039#0" expanded="false" />
+            <element signature="e#26085#26086#0" expanded="false" />
+            <element signature="e#26558#26559#0" expanded="false" />
+            <element signature="e#26604#26605#0" expanded="false" />
+            <element signature="e#27075#27076#0" expanded="false" />
+            <element signature="e#27119#27120#0" expanded="false" />
+            <element signature="e#27683#27684#0" expanded="false" />
+            <element signature="e#27729#27730#0" expanded="false" />
+            <element signature="e#28044#28045#0" expanded="false" />
+            <element signature="e#28125#28126#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1349,7 +1497,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="429" column="16" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#28129#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6207#6208#0" expanded="false" />
+            <element signature="e#6248#6249#0" expanded="false" />
+            <element signature="e#6282#6283#0" expanded="false" />
+            <element signature="e#6323#6324#0" expanded="false" />
+            <element signature="e#7894#7895#0" expanded="false" />
+            <element signature="e#7932#7933#0" expanded="false" />
+            <element signature="e#7988#7989#0" expanded="false" />
+            <element signature="e#8052#8053#0" expanded="false" />
+            <element signature="e#8250#8251#0" expanded="false" />
+            <element signature="e#8288#8289#0" expanded="false" />
+            <element signature="e#9063#9064#0" expanded="false" />
+            <element signature="e#9110#9111#0" expanded="false" />
+            <element signature="e#9650#9651#0" expanded="false" />
+            <element signature="e#9728#9729#0" expanded="false" />
+            <element signature="e#11983#11984#0" expanded="false" />
+            <element signature="e#12020#12021#0" expanded="false" />
+            <element signature="e#13148#13149#0" expanded="false" />
+            <element signature="e#13207#13208#0" expanded="false" />
+            <element signature="e#15864#15865#0" expanded="false" />
+            <element signature="e#15901#15902#0" expanded="false" />
+            <element signature="e#24963#24964#0" expanded="false" />
+            <element signature="e#25003#25004#0" expanded="false" />
+            <element signature="e#25177#25178#0" expanded="false" />
+            <element signature="e#25219#25220#0" expanded="false" />
+            <element signature="e#26038#26039#0" expanded="false" />
+            <element signature="e#26085#26086#0" expanded="false" />
+            <element signature="e#26558#26559#0" expanded="false" />
+            <element signature="e#26604#26605#0" expanded="false" />
+            <element signature="e#27075#27076#0" expanded="false" />
+            <element signature="e#27119#27120#0" expanded="false" />
+            <element signature="e#27683#27684#0" expanded="false" />
+            <element signature="e#27729#27730#0" expanded="false" />
+            <element signature="e#28044#28045#0" expanded="false" />
+            <element signature="e#28125#28126#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,7 +1542,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="429" column="16" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#28129#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6207#6208#0" expanded="false" />
+            <element signature="e#6248#6249#0" expanded="false" />
+            <element signature="e#6282#6283#0" expanded="false" />
+            <element signature="e#6323#6324#0" expanded="false" />
+            <element signature="e#7894#7895#0" expanded="false" />
+            <element signature="e#7932#7933#0" expanded="false" />
+            <element signature="e#7988#7989#0" expanded="false" />
+            <element signature="e#8052#8053#0" expanded="false" />
+            <element signature="e#8250#8251#0" expanded="false" />
+            <element signature="e#8288#8289#0" expanded="false" />
+            <element signature="e#9063#9064#0" expanded="false" />
+            <element signature="e#9110#9111#0" expanded="false" />
+            <element signature="e#9650#9651#0" expanded="false" />
+            <element signature="e#9728#9729#0" expanded="false" />
+            <element signature="e#11983#11984#0" expanded="false" />
+            <element signature="e#12020#12021#0" expanded="false" />
+            <element signature="e#13148#13149#0" expanded="false" />
+            <element signature="e#13207#13208#0" expanded="false" />
+            <element signature="e#15864#15865#0" expanded="false" />
+            <element signature="e#15901#15902#0" expanded="false" />
+            <element signature="e#24963#24964#0" expanded="false" />
+            <element signature="e#25003#25004#0" expanded="false" />
+            <element signature="e#25177#25178#0" expanded="false" />
+            <element signature="e#25219#25220#0" expanded="false" />
+            <element signature="e#26038#26039#0" expanded="false" />
+            <element signature="e#26085#26086#0" expanded="false" />
+            <element signature="e#26558#26559#0" expanded="false" />
+            <element signature="e#26604#26605#0" expanded="false" />
+            <element signature="e#27075#27076#0" expanded="false" />
+            <element signature="e#27119#27120#0" expanded="false" />
+            <element signature="e#27683#27684#0" expanded="false" />
+            <element signature="e#27729#27730#0" expanded="false" />
+            <element signature="e#28044#28045#0" expanded="false" />
+            <element signature="e#28125#28126#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1388,7 +1610,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab2/TwoThreads.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="3" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1396,15 +1618,15 @@
     <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab2/TenThreads.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab3/TancSoStudentite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.2151515">
-          <caret line="86" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.206897">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1497#1498#0" expanded="true" />
@@ -1413,6 +1635,37 @@
             <element signature="e#2380#2381#0" expanded="true" />
             <element signature="e#2806#2814#0" expanded="true" />
             <element signature="e#8571#8579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab3/TribeDinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/boshkov/os/lab3/TemplateNumRunsAndNumInstances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2878788">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2718#2719#0" expanded="true" />
+            <element signature="e#2756#2757#0" expanded="true" />
+            <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="true" />
+            <element signature="e#7480#7488#0" expanded="true" />
+            <element signature="e#7556#7573#0" expanded="true" />
+            <element signature="e#9670#9671#0" expanded="true" />
+            <element signature="e#9716#9717#0" expanded="true" />
+            <element signature="e#10906#10931#0" expanded="true" />
+            <element signature="e#11705#11706#0" expanded="true" />
+            <element signature="e#11742#11743#0" expanded="true" />
+            <element signature="e#12278#12286#0" expanded="true" />
           </folding>
         </state>
       </provider>
